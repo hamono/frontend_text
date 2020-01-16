@@ -39,3 +39,8 @@ tslent -init
 3. 配置`tslent.json`
 
       [详细配置信息](https://blog.csdn.net/zw52yany/article/details/78688837)
+## ESLent&&prettier
+### 同为代码格式验证工具
+[ESLent](https://eslint.bootcss.com/)
+
+[prettier](https://prettier.io/)
