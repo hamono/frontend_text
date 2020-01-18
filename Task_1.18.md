@@ -8,16 +8,19 @@
   import GIVEN_NAME from ADDRESS
 ```
 从`ADDRESS`导入默认的组件，并命名为`GIVEN_NAME`
+
 2. `Importing named values`
 ```
   import { PARA_NAME } from ADDRESS
 ```
 从`ADDRESS`导入`PARA_NAME`组件
+
 3. `Importing a combination of Default Exports and Named Values`
 ```
   import GIVEN_NAME, { PARA_NAME, ... } from ADDRESS
 ```
 从`ADDRESS`导入默认组件并命名为`GIVEN_NAME`,导入`PARA-NAME`组件
+
 4. `importing all combination except Default Exports`
 ```
   import * as GIVEN_NAME from ADDRESS
