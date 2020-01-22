@@ -6,7 +6,7 @@
     其他两种方式请参考#其他还有两种方法请参考[link](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
 2. 安装`gh-pages`：
     ```
-    yar add gh-pages
+    yarn add gh-pages
     ```
     需要注意的是，这里的安装方法应该与项目的包管理器一致
 3. 添加一些东西在`package.json`文件里：
